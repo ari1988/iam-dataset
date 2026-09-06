@@ -271939,9 +271939,7 @@
               "aws:ResourceTag/${TagKey}",
               "aws:TagKeys"
             ],
-            "dependent_actions": [
-              "omics:CreateRunGroup"
-            ],
+            "dependent_actions": [],
             "resource_type": "AnnotationStore"
           },
           {
